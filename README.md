@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is Ezequiel Schneider and I'm a Software Developer/Analyst. I'm from Brazil and living in Rio Grande do Sul state and I'm passionate about technology. You can find me on <a href="www.linkedin.com/in/ezequiel-schneider-da-silva"><img height="30" src="https://github.com/ezequielers/ezequielers/blob/master/linkedin.png?raw=true"></a>
+My name is Ezequiel Schneider and I'm a Software Developer/Analyst. I'm from Brazil and living in Rio Grande do Sul state and I'm passionate about technology. You can find me on <a href="www.linkedin.com/in/ezequiel-schneider-da-silva"><img height="15" src="https://github.com/ezequielers/ezequielers/blob/master/linkedin.png?raw=true"></a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
